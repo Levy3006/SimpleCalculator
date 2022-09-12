@@ -1,0 +1,22 @@
+
+        #operators{
+           padding:5px;
+        }
+        #calculadora{
+            text-align: left;
+            padding: 50px;
+            border-color: red;
+            border-style: ridge;
+            position:absolute;
+            left:30px;
+
+        }
+        #title{
+            font-size: 25px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            position: relative;
+            bottom:25px;
+        }
+        #resposta{
+            font-size: 25px;
+        }
